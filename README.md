@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mire-web
 - 👀 I’m interested in game and web development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on game develoment
 - 📫 How to reach me 
 
