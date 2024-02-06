@@ -3,9 +3,9 @@
 ### 🌱 I’m currently a student of ALXSE.
 ### 💞️ I’m looking to collaborate on projects related to but not limited to artificial intelligence, Machine learning, VR/AR, Blockchain/Web3.0..
 ## 📫 Connect with me:
--  [![Twitter](https://img.shields.io/twitter/follow/:not_ifeanyi)](https://www.twitter.com/not_ifeanyi)
+-  [![Twitter](https://img.shields.io/twitter/follow/not_ifeanyi)](https://www.twitter.com/not_ifeanyi)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin/in/mire-web)
-- [![Whatsapp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue)](https://wa.me/2348081175695)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=plastic)](https://wa.me/2348081175695)
 - [![E-Mail me]](mailto:mire4work@gmail.com)
 ## Stacks
    - HTML5
